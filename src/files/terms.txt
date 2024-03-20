@@ -1,0 +1,66 @@
+    <p>
+        The materials contained in this website are protected by applicable copyright and trademark law. By accessing the website at WEBSITE URL, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this website.This terms of service agreement is effective as of 6 August 2018.
+    </p>
+    <h3 style="font-size: 28px; margin-top: 15px">
+        1. Limited Licence
+    </h3>
+    <p>
+        In accordance with the terms and conditions set forth in this Agreement, COMPANY NAME grants you a non-exclusive, non-transferable, limited right to access, use and display this website and the materials thereon. You agree not to interrupt or attempt to interrupt the operation of WEBSITE URL in any way.
+    </p>
+    <p style="margin-top: 10px;">
+        COMPANY NAME authorises you to view the information ("Materials"). You may not modify the Materials in any way or reproduce, publicly display, perform, distribute or otherwise use them for any public or commercial purpose. You must not transfer the Materials to any other person for commercial or business use. You agree to abide by all additional restrictions displayed on WEBSITE URL, as they may be updated from time to time.
+    </p>
+    <h3 style="font-size: 28px; margin-top: 15px">
+        2. Disclaimer
+    </h3>
+    <p>
+        COMPANY NAME is a referral service, we refer all enquiries that are initiated on this website to partners who are licensed to provide their respective products and/or services and quotes. We receive referral fees and commissions from third parties company for making these introductions. Although we cover a wide range of products and services, we don't cover every product or service available on the market. In some cases, we may not have a large selection of partners on board who can service your specific request. This could be due to your circumstances that may be unique and only serviceable by a particular provider or because COMPANY NAME only has been able to come to an agreement with one product or service supplier.
+    </p>
+    <p style="margin-top: 10px;">
+        By clicking on the "CTA TEXT" button, you agree to proceed with a specific product or service offering through a referral from WEBSITE URL, you will be dealing directly with the third party company and(or) its representatives of that product or service and no longer with WEBSITE URL / COMPANY NAME. You acknowledge and agree to receive notices, phone calls, and any other communications at the email or telephone number(s) you provided on your application from the third party company and(or) its representatives of that product or service. 
+    </p>
+    <p style="margin-top: 10px;">
+        COMPANY NAME does not guarantee the accuracy of the information on the website or given in any other subsequent communication, including information provided by contributors or third parties at any particular time. You must accept sole responsibility associated with using the material on this website, and the information on this website is no substitute for financial advice. You must not rely on this information to make a financial or investment decision. Before making any decision, you must seek professional advice to take into account your particular personal objectives, financial situation and needs. 
+    </p>
+    <p style="margin-top: 10px;">
+        The materials on COMPANY NAME's website are provided on an "as is" basis. COMPANY NAME makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, COMPANY NAME does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any websites linked to this website.
+    </p>
+    <p style="margin-top: 10px;">
+        Photographs used on this website without descriptions are for illustration purposes only. People shown in photographs are not endorsing COMPANY NAME or its products. Diagrams used on WEBSITE URL may not be drawn to scale.
+    </p>
+    <p style="margin-top: 10px;">
+        For the purposes of the Do Not Call Register Act 2006 (if it applies), by submitting your telephone number to COMPANY NAME, you give your consent to be contacted by telephone on that number by either COMPANY NAME, any of its related Bodies Corporate and any of its associated third parties. Your consent will be deemed to be inferred consent and will continue until such time as you withdraw that consent.
+    </p>
+    <p style="margin-top: 10px;">
+        For the purposes of the Spam Act 2003 (as applicable), by submitting your email address to COMPANY NAME, you give your consent to be contacted by email on that email address by COMPANY NAME, any of its related Bodies Corporate and any of its associated third parties. Your consent will be deemed to be express consent and will continue until such time as you withdraw that consent.
+    </p>
+    <h3 style="font-size: 28px; margin-top: 15px">
+        3. Limitations
+    </h3>
+    <p>
+        In no event shall COMPANY NAME or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on COMPANY NAME's website, even if COMPANY NAME or a authorised representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+    </p>
+    <h3 style="font-size: 28px; margin-top: 15px">
+        4. Accuracy of materials
+     </h3>
+    <p>
+        The materials appearing on COMPANY NAME's website could include technical, typographical, or photographic errors. COMPANY NAME does not warrant that any of the materials on its website are accurate, complete or current. COMPANY NAME may make changes to the materials contained on its website at any time without notice. However, COMPANY NAME does not make any commitment to update the materials.
+    </p>
+    <h3 style="font-size: 28px; margin-top: 15px">
+        5. Links
+    </h3>
+    <p>
+        COMPANY NAME may provide, on this website, WEBSITE URL, links (hyperlinks) referencing external websites operated by other entities. If you decide to visit any linked website, you do so at your own risk and it is your responsibility to take all protective measures to guard against viruses or other destructive elements. COMPANY NAME makes no warranty or representation regarding, and does not endorse, any linked website or the information appearing thereon or any of the products or services described thereon.
+    </p>
+    <h3 style="font-size: 28px; margin-top: 15px">
+        6. Modifications
+    </h3>
+    <p>
+        COMPANY NAME may revise these terms of service for its website at any time without notice. By using this website, you are agreeing to be bound by the then current version of these terms of service.
+    </p>
+    <h3 style="font-size: 28px; margin-top: 15px">
+        7. Governing law
+    </h3>
+    <p>
+        COMPANY NAME makes no representation that materials at this website are appropriate or available for use at other locations outside of the Commonwealth of Australia, and access to them from territories where their contents are illegal is prohibited. You may not use the WEBSITE URL or export the Materials in violation of Australian export laws and regulations. If you access this website from a location outside of the Commonwealth of Australia, you are responsible for compliance with all local laws. These Terms of Service of use shall be governed by the laws of the State of Queensland, Australia, without giving effect to its conflict of laws provisions. This agreement constitutes the entire agreement between the COMPANY NAME and you with respect to your use of the website.
+    </p>
